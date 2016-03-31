@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2016 AICP
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Freisprech-Einstellungen</string>
+    <string name="prox_auto_speaker_title">Automatisches Freisprechen</string>
+    <string name="prox_auto_speaker_summary">Aktiviere den Lautsprecher, wenn das Gerät vom Ohr entfernt wird</string>
+    <string name="prox_auto_speaker_delay_title">Verzögerung fürs Freisprechen</string>
+    <string name="prox_auto_speaker_delay_summary">Zeitverzögerung bevor der Lautsprecher aktiviert wird</string>
+    <string name="prox_auto_speaker_incall_only_title">Nur während eines Gesprächs</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Der Lautsprecher wird bei abgehenden Anrufen aktiviert, sobald der Teilnehmer antwortet</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Der Lautsprecher ist bei allen Gesprächen aktiviert, sobald abgehoben wird (Standard)</string>
+
+    <!-- Mobile network settings screen, setting check box name -->
+    <string name="national_roaming">Daten-Roaming</string>
+    <!-- Mobile network settings screen, setting summary text when check box is selected -->
+    <string name="national_roaming_enable">Mit Datendiensten verbinden, wenn Roaming aktiviert ist</string>
+    <!-- Mobile network settings screen, setting summary text when check box is clear -->
+    <string name="national_roaming_disable">Nicht mit Datendiensten verbinden, wenn Roaming aktiviert ist</string>
+
+    <!-- Title for the option managing whether or not to use intrusive incall UI. -->
+    <string name="use_intrusive_call_title">Aufdringliche Meldung eingehender Anrufe</string>
+    <string name="use_intrusive_call_summary">Zeigt eine Vollbild-Benachrichtigung bei eingehenden Anrufen wie bei gesperrtem Gerät</string>
+
+</resources>
