@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2016 AICP
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Impostazioni degli altoparlanti di prossimità</string>
+    <string name="prox_auto_speaker_title">Altoparlante di prossimità automatico</string>
+    <string name="prox_auto_speaker_summary">Attiva il vivavoce quando il dispositivo viene allontanato dal tuo viso</string>
+    <string name="prox_auto_speaker_delay_title">Ritardo di prossimità degli altoparlanti</string>
+    <string name="prox_auto_speaker_delay_summary">Il tempo di ritardo prima dell\'altoparlante viene attivato</string>
+    <string name="prox_auto_speaker_incall_only_title">Solo quando si è in chiamata</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Sulle chiamate in uscita, l\'interlocutore diventerà attivo solo dopo la risposta del ricevente</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">L\'interlocutore sarà attivo durante tutti gli stati di chiamata (predefinito)</string>
+
+    <!-- Mobile network settings screen, setting check box name -->
+    <string name="national_roaming">Roaming nazionale dei dati</string>
+    <!-- Mobile network settings screen, setting summary text when check box is selected -->
+    <string name="national_roaming_enable">Connettersi ai servizi nazionale dei dati in roaming</string>
+    <!-- Mobile network settings screen, setting summary text when check box is clear -->
+    <string name="national_roaming_disable">Non collegare ai servizi dati durante il roaming nazionale</string>
+
+    <!-- Title for the option managing whether or not to use intrusive incall UI. -->
+    <string name="use_intrusive_call_title">Chiamate in entrata invadenti</string>
+    <string name="use_intrusive_call_summary">Mostra una notifica a schermo intero su chiamata in arrivo anche quando non sono nella schermata di blocco</string>
+
+</resources>
